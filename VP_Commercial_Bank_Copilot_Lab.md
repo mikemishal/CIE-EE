@@ -1,4 +1,4 @@
-# Immersion Experience - Executive Banking Workflow
+# Immersion Experience - EE Lab
 
 Use Microsoft 365 Copilot to prepare for an executive review, analyze a forecast workbook, and draft a concise leadership update.
 
