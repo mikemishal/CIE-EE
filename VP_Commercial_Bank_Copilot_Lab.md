@@ -93,25 +93,9 @@ Draft a concise leadership update based on these findings. Use four sections: Pr
 Rewrite this for a senior executive audience. Make it shorter, clearer, and focused on decisions and next steps.
 ```
 
-## Optional Task 4: Use a Chief of Staff agent
-
-If a **Chief of Staff** agent is available, use it to create an executive-ready summary.
-
-### Sample prompt
-
-```text
-Prepare me for an executive review. Summarize the top issues, risks, decisions needed, owners, and next steps from the available context.
-```
-
-### Follow-up prompt
-
-```text
-Turn this into a concise executive briefing with decisions needed, owners, and follow-up actions.
-```
-
 ## Wrap-up
 
-Before using the final output, check:
+Before using your final output, check:
 
 - Are the facts accurate?
 - Are the sources appropriate?
@@ -119,9 +103,9 @@ Before using the final output, check:
 - Are decisions and next steps explicit?
 - Is the message short enough for a senior audience?
 
-## Prompt pattern
+## Simple prompt pattern
 
-Use this structure when creating your own prompts:
+Use this structure for your own prompts:
 
 ```text
 Goal: [what you want]
