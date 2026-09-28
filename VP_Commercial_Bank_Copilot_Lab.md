@@ -45,11 +45,13 @@ Use **Copilot in Excel** to identify business trends and risks in a sample forec
 ### Steps
 
 1. Open the sample workbook: [aka.ms/sampleExcel2](https://aka.ms/sampleExcel2).
-2. Open the workbook in Excel for the web or desktop Excel.
-3. Confirm the data is formatted as a table.
-4. Open Copilot in Excel.
-5. Ask Copilot to identify trends, risks, and recommended actions.
-6. Validate the numbers and assumptions before using the output.
+2. Download the workbook to your device.
+3. Upload or save the workbook to your OneDrive.
+4. Open the OneDrive copy in Excel for the web or desktop Excel.
+5. Confirm the data is formatted as a table.
+6. Open Copilot in Excel.
+7. Ask Copilot to identify trends, risks, and recommended actions.
+8. Validate the numbers and assumptions before using the output.
 
 ### Sample prompt
 
