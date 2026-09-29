@@ -1,6 +1,6 @@
-# TD Executive CIE: Chief of Staff agent instructions
+# Bank Executive CIE: Chief of Staff agent instructions
 
-Build a lightweight Microsoft 365 Copilot Agent Builder demo agent for the TD executive immersion. The goal is to show a simple role-based agent, not a production TD solution.
+Build a lightweight Microsoft 365 Copilot Agent Builder demo agent for the Bank executive immersion. The goal is to show a simple role-based agent, not a production solution.
 
 ## Sharing model
 
@@ -104,14 +104,14 @@ Close with:
 This is intentionally lightweight. The point is not to build a production agent here; it is to show how a named, role-based agent can focus Copilot on a repeatable executive workflow.
 ```
 
-## TD feature guardrails
+## Bank feature guardrails
 
-- TD has GPT models only. Do not show or imply Claude/Anthropic availability.
+- Bank has GPT models only. Do not show or imply Claude/Anthropic availability.
 - Do not demonstrate Copilot Notebooks or Copilot Pages.
 - Do not demonstrate Teams Facilitator.
 - Do not rely on Teams meeting transcription.
 - Do not demonstrate Copilot Skills in Excel or PowerPoint.
-- Do not promise SharePoint Agents until TD confirms availability.
+- Do not promise SharePoint Agents until Bank confirms availability.
 - Keep the agent grounded in sources the user can already access.
 
 ## Validation checklist

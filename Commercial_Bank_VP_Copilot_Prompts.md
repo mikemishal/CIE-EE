@@ -1,4 +1,4 @@
-# TD Executive CIE: VP prompt library
+# Bank Executive CIE: VP prompt library
 
 Simple, copy-ready prompts for VPs in a commercial bank. Replace bracketed text before use.
 
